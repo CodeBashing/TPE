@@ -1,4 +1,4 @@
-# TPE
+ # TPE
 Un site web conçu pour un tpe
 
 INSTRUCTION :
@@ -7,7 +7,7 @@ INSTRUCTION :
 
 2- Une connection internet n'est pas requise pour lancer le site, mais est recommandé pour un affichage complet du site
 
-3- Une résolution d'écran de 1280*720 (HD) est recommandée pour la bonne lisibilité du site, bien qu'une résolution de 1920*1080(FULL HD) ne pose aucun soucis. En dessous, le contenu risque d'être partiellement découpé.
+3- Une résolution d'écran de 1280 * 720 (HD) est recommandée pour la bonne lisibilité du site, bien qu'une résolution de 1920 * 1080(FULL HD) ne pose aucun soucis. En dessous, le contenu risque d'être partiellement découpé.
 
 4- Le schéma du robot utilise un format propriétaire (.fzz) qui s'ouvre avec le logiciel Fritzing. Néanmoins, une photo du schéma est disponible sous la page conception.
 
